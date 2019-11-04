@@ -1,0 +1,35 @@
+.nav{
+  background: grey;
+  color: green;
+  font-size: 20px;
+  height: 40px;
+  width: 100%;
+}
+.nav-brand{
+  font-family: fantasy;
+  text-align: center;
+  font-size: 30px;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  margin-left: 500px;
+  margin-top: 50px;
+  background: green;
+  width: 350px;
+}
+input{
+  width: 300px;
+  margin: 15px;
+  color: black;
+}
+select{
+  width: 300px;
+  margin: 15px;
+}
+button{
+  color: black;
+}
+.note{
+  font-size: 30px;
+}
